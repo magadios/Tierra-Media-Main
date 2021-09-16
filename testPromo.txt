@@ -1,0 +1,4 @@
+Absoluta,Promocion p1,AVENTURA,10,Moria,Minas Tirith
+Porcentual,Promocion p2,AVENTURA,30,Moria,La Comarca
+AxB,Promocion p3,AVENTURA,Minas Tirith,Moria,La Comarca
+Absoluta,Promocion p4,AVENTURA,5,Minas Tirith,Mordor

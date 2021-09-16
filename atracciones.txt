@@ -1,0 +1,8 @@
+Moria,10,3,2,AVENTURA
+Minas Tirith,4,2.5,1,PAISAJE
+La Comarca,2,4,150,DEGUSTACION
+Mordor,8,3,3,AVENTURA
+Abismo de Helm,5,2,4,PAISAJE
+Lothlorien,35,1,3,DEGUSTACION
+Erebor,12,3,2,PAISAJE
+Bosque Negro,3,4,2,AVENTURA
